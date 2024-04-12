@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+
+# Compiled JavaScript files
+dist/
+
+# TypeScript compiled output
+*.js
+*.js.map
+
+# Optional TypeScript compiled output
+*.d.ts
+
+# Environment files
+.env
+.env.local
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+*.log
+*.csv
+
+# Optional eslint cache
+.eslintcache
+
+# Optional npm debug logs
+npm-debug.log*
+
+# Yarn Integrity file
+.yarn-integrity
